@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Curious World</title>
+    <link>https://acuriousworld.netlify.com/</link>
+    <description>Recent content on A Curious World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2018 15:18:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://acuriousworld.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Africa</title>
+      <link>https://acuriousworld.netlify.com/projects/africa/</link>
+      <pubDate>Fri, 12 Jan 2018 15:18:24 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>America</title>
+      <link>https://acuriousworld.netlify.com/projects/america/</link>
+      <pubDate>Fri, 12 Jan 2018 16:29:05 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/america/</guid>
+      <description>Index to American galleries:
+ Grand Canyon Death Valley Arches National Park Mount Saint Helens Sequoia National Park</description>
+    </item>
+    
+    <item>
+      <title>America: Grand Canyon</title>
+      <link>https://acuriousworld.netlify.com/projects/america/grand-canyon/</link>
+      <pubDate>Fri, 12 Jan 2018 16:53:04 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/america/grand-canyon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>America: Arches National Park</title>
+      <link>https://acuriousworld.netlify.com/projects/america/arches/</link>
+      <pubDate>Fri, 12 Jan 2018 16:38:26 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/america/arches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>America: Sequoia National Park</title>
+      <link>https://acuriousworld.netlify.com/projects/america/sequoia/</link>
+      <pubDate>Fri, 12 Jan 2018 17:16:25 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/america/sequoia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antarctic</title>
+      <link>https://acuriousworld.netlify.com/projects/antarctic/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/antarctic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arctic</title>
+      <link>https://acuriousworld.netlify.com/projects/arctic/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/arctic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia</title>
+      <link>https://acuriousworld.netlify.com/projects/australia/</link>
+      <pubDate>Fri, 12 Jan 2018 16:29:05 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/australia/</guid>
+      <description>Index to Australian galleries:
+ Black Point, Western Australia Canning Stock Route, Western Australia Kimberley Region, Western Australia Pilbara Region, Western Australia Tasmania</description>
+    </item>
+    
+    <item>
+      <title>Australia: Black Point</title>
+      <link>https://acuriousworld.netlify.com/projects/australia/black-point/</link>
+      <pubDate>Fri, 12 Jan 2018 17:53:28 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/australia/black-point/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia: Canning Stock Route</title>
+      <link>https://acuriousworld.netlify.com/projects/australia/canning-stock-route/</link>
+      <pubDate>Fri, 12 Jan 2018 17:53:28 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/australia/canning-stock-route/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Australia: Kimberley Region</title>
+      <link>https://acuriousworld.netlify.com/projects/australia/kimberley/</link>
+      <pubDate>Fri, 12 Jan 2018 17:53:28 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/australia/kimberley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://acuriousworld.netlify.com/projects/china/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egypt</title>
+      <link>https://acuriousworld.netlify.com/projects/egypt/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/egypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Indonesia</title>
+      <link>https://acuriousworld.netlify.com/projects/indonesia/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/indonesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Israel</title>
+      <link>https://acuriousworld.netlify.com/projects/israel/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/israel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turkey</title>
+      <link>https://acuriousworld.netlify.com/projects/turkey/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/turkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Birds</title>
+      <link>https://acuriousworld.netlify.com/projects/birds/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cephalopods</title>
+      <link>https://acuriousworld.netlify.com/projects/cephalopods/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/cephalopods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crustaceans</title>
+      <link>https://acuriousworld.netlify.com/projects/crustaceans/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/crustaceans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flowers of Central Western Australia</title>
+      <link>https://acuriousworld.netlify.com/projects/flowers/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/flowers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fossils</title>
+      <link>https://acuriousworld.netlify.com/projects/fossils/</link>
+      <pubDate>Fri, 12 Jan 2018 17:26:38 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/projects/fossils/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommended Sites</title>
+      <link>https://acuriousworld.netlify.com/blog/recommended/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/blog/recommended/</guid>
+      <description>We provide real-world answers to the most-asked questions in the vital area of creation/evolution, where the Bible is most under attack today &amp;ndash; Genesis.
+
+Hundreds of images of Australia and her people. Explore parts of Australia in pictorial galleries with outstanding images from many contributors.
+
+Produces video documentaries that examine the scientific case for intelligent design, helping define both the scientific case for design and the limitations of materialistic processes like Darwinian evolution.</description>
+    </item>
+    
+    <item>
+      <title>Margaret&#39;s Journey</title>
+      <link>https://acuriousworld.netlify.com/blog/margaret/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/blog/margaret/</guid>
+      <description>I was born in Wales to an English/Welsh mother and Irish father, but then moved to the edge of London for a couple of years before the family emigrated to Western Australia when I was five and a half years old. Due to Dad’s many changes in employment, we moved around somewhat changing houses and schools. Sometimes living in the suburbs, sometimes more rural and for a few years, when Dad was a lighthouse keeper, on an Island where there was no school and correspondence lessons were done.</description>
+    </item>
+    
+    <item>
+      <title>David&#39;s Journey</title>
+      <link>https://acuriousworld.netlify.com/blog/david/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/blog/david/</guid>
+      <description>I was brought up in a religion that was really more like a cult with many strict rules and regulations. Primary school years were many happy times, with friends and family, but high school years were a nightmare of embarrassment trying to live by rules.
+A great love of the outdoors, the bush, the beach, the outback, snorkeling, exploring caves, wildflowers and critters, climbing trees looking for bird’s nests, animals, birds, lizards and snakes, being cooped up in a religion that was cultish wasn’t for me!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://acuriousworld.netlify.com/contact/</link>
+      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/contact/</guid>
+      <description>David and Margaret Cook live in Perth, Western Australia.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://acuriousworld.netlify.com/about/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/about/</guid>
+      <description>Growing up in Australia with a love of the outdoors and nature there were many things which aroused my curiosity. Western society today generally accepts the theory of evolution as a fact, but for the inquiring mind there are some unusual, yes, curious things that have stimulated my mind to explore a little deeper.
+Hence I have called this website A Curious World.
+It is a privilege to be living in an age of modern travel and technology, and to be able to explore the world we live in and record photographic images of the beauty and complexity of nature around us.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-baseurl             = "http://acuriousworld.net/"   # Your domain name. Must end with "/"
+baseurl             = "https://acuriousworld.netlify.com/"   # Your domain name. Must end with "/"
 languageCode        = "en-us"
 title               = "A Curious World"
 theme               = "introduction"

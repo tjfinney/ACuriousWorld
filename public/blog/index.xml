@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on A Curious World</title>
+    <link>https://acuriousworld.netlify.com/blog/</link>
+    <description>Recent content in Blogs on A Curious World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://acuriousworld.netlify.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recommended Sites</title>
+      <link>https://acuriousworld.netlify.com/blog/recommended/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/blog/recommended/</guid>
+      <description>We provide real-world answers to the most-asked questions in the vital area of creation/evolution, where the Bible is most under attack today &amp;ndash; Genesis.
+
+Hundreds of images of Australia and her people. Explore parts of Australia in pictorial galleries with outstanding images from many contributors.
+
+Produces video documentaries that examine the scientific case for intelligent design, helping define both the scientific case for design and the limitations of materialistic processes like Darwinian evolution.</description>
+    </item>
+    
+    <item>
+      <title>Margaret&#39;s Journey</title>
+      <link>https://acuriousworld.netlify.com/blog/margaret/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/blog/margaret/</guid>
+      <description>I was born in Wales to an English/Welsh mother and Irish father, but then moved to the edge of London for a couple of years before the family emigrated to Western Australia when I was five and a half years old. Due to Dad’s many changes in employment, we moved around somewhat changing houses and schools. Sometimes living in the suburbs, sometimes more rural and for a few years, when Dad was a lighthouse keeper, on an Island where there was no school and correspondence lessons were done.</description>
+    </item>
+    
+    <item>
+      <title>David&#39;s Journey</title>
+      <link>https://acuriousworld.netlify.com/blog/david/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://acuriousworld.netlify.com/blog/david/</guid>
+      <description>I was brought up in a religion that was really more like a cult with many strict rules and regulations. Primary school years were many happy times, with friends and family, but high school years were a nightmare of embarrassment trying to live by rules.
+A great love of the outdoors, the bush, the beach, the outback, snorkeling, exploring caves, wildflowers and critters, climbing trees looking for bird’s nests, animals, birds, lizards and snakes, being cooped up in a religion that was cultish wasn’t for me!</description>
+    </item>
+    
+  </channel>
+</rss>

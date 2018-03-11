@@ -22,11 +22,12 @@
         <div class="container markdown {{ if .Site.Params.fadeIn }} fade-in two {{ end }} top-pad">
             <!-- Begin blog post content -->
             {{ if .Params.image }}
-            <div class="has-text-centered">
-            <img src="{{ .Params.image }}" class="img-responsive"> 
-            </div>
-            {{ end }} 
-            
+            <!--div class="has-text-centeredd">
+            <img src="{{ .Params.image }}" class="img-responsive">
+            </div-->
+            <p><img src="{{ .Params.image }}" class="img-responsive"></p>
+            {{ end }}
+
             {{ .Content }}
         </div>
         <!-- End blog post content -->
